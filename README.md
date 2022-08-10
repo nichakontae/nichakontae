@@ -8,7 +8,7 @@ Hello! My name is Nicakon Seehabong. You can call me 'EVE'. I'm currently a 2-ye
 
 ### Contact with Me
 
-![image](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)
+![image](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=appveyor&logoColor=white)
 
 
 
