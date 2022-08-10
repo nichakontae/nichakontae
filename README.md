@@ -1,5 +1,5 @@
-## Hi there 👋, I'm Eve
-Hello! My name is Nicakon Seehabong. You can call me 'EVE'. I'm currently a second-year student in Computer-Science program at King Mongkut's University of Technology Thonburi (KMUTT).
+## Hi there 👋
+My name is Nicakon Seehabong. You can call me 'EVE'. I'm currently a second-year student in Computer-Science program at King Mongkut's University of Technology Thonburi (KMUTT).
 
 - 🌱 I’m currently learning Web development, Algorithm, Database
 
