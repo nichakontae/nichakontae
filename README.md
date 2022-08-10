@@ -8,8 +8,11 @@ Hello! My name is Nicakon Seehabong. You can call me 'EVE'. I'm currently a 2-ye
 
 ### Contact with Me
 
-![image](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)
-![image](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)
+[![image](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/nichakon.e)
+[![image](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/nnchty/)
+
+
+
 
 
 
