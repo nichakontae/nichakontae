@@ -5,7 +5,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nichakontae&layout=compact&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nichakontae&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
 
 - 🌱 I’m currently learning Web development, Algorithm, Database
 <!--
