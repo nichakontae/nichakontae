@@ -7,6 +7,7 @@ Hello! My name is Nicakon Seehabong. You can call me 'EVE'. I'm currently a 2-ye
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nichakontae&layout=compact&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Contact with Me
+<img src="{https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white}" />
 ![image]({https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white})
 
 
